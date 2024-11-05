@@ -1,0 +1,4 @@
+baseURL = 'https://dnhddchessassociation.github.io/'
+languageCode = 'en-us'
+title = 'DNH & DD Chess Association'
+theme = 'ananke'
