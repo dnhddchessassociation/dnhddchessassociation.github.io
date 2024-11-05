@@ -1,6 +1,6 @@
 +++
 date = '2024-11-05T19:28:01+05:30'
-draft = true
+draft = false
 title = 'Events'
 +++
 

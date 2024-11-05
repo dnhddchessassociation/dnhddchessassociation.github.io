@@ -2,3 +2,23 @@ baseURL = 'https://dnhddchessassociation.github.io/'
 languageCode = 'en-us'
 title = 'DNH & DD Chess Association'
 theme = 'ananke'
+
+[[menu.main]]
+name = "Events"
+url = "/events/"
+weight = 1
+
+[[menu.main]]
+name = "Contact Us"
+url = "/contactus/"
+weight = 3
+
+[[menu.main]]
+name = "Membership"
+url = "/membership/"
+weight = 2
+
+[[menu.main]]
+name = "About Us"
+url = "/aboutus/"
+weight = 4
