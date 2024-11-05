@@ -3,6 +3,23 @@ languageCode = 'en-us'
 title = 'DNH & DD Chess Association'
 theme = 'ananke'
 
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[params]
+text_color = "#000000"
+
+[pagination]
+pagerSize = 3
+
+[sitemap]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
+
+
 [[menu.main]]
 name = "Events"
 url = "/events/"
@@ -22,3 +39,12 @@ weight = 2
 name = "About Us"
 url = "/aboutus/"
 weight = 4
+
+[params.ananke.social.follow]
+networks = [
+  "facebook",
+]
+
+[params.ananke.social]
+[params.ananke.social.facebook]
+username = "patrick.kollitsch"

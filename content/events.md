@@ -1,8 +1,11 @@
-+++
-date = '2024-11-05T19:28:01+05:30'
-draft = false
-title = 'Events'
-+++
+---
+title: Events
+featured_image: ""
+omit_header_text: true
+description: "Stay updated with the latest tournaments, workshops, and events."
+type: page
+menu: main
+---
 
 ## Upcoming Events
 

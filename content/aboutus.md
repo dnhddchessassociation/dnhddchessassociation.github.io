@@ -1,8 +1,11 @@
-+++
-date = '2024-11-05T19:25:26+05:30'
-draft = false
-title = 'About Us'
-+++
+---
+title: About Us
+featured_image: ""
+omit_header_text: true
+description: Learn more about the DNH & DD Chess Association.
+type: page
+menu: main
+---
 
 ## About DNH & DD Chess Association
 

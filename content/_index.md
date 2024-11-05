@@ -2,7 +2,9 @@
 title: "Welcome to DNH & DD Chess Association"
 description: "Empowering the chess community in Daman, Diu, and Dadra & Nagar Haveli."
 author: "DNH & DD Chess Association"
-draft: false
+theme_version: "2.8.2"
+cascade:
+    featured_image: "/images/banner.jpg"
 ---
 
 # DNH & DD Chess Association
