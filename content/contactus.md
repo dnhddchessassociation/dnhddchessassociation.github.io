@@ -6,6 +6,6 @@ title = 'Contact Us'
 
 ## Get in Touch
 
--   **Email:** info@dnhddchess.org
+-   **Email:** president.dnhddchess@gmail.com
 -   **Phone:** +123-456-7890
 -   **Address:** 123 Chess Ave, Checkmate City

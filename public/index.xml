@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DNH &amp; DD Chess Association</title>
-    <link>https://dnhddchessassociation.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on DNH &amp; DD Chess Association</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Nov 2024 19:29:15 +0530</lastBuildDate>
-    <atom:link href="https://dnhddchessassociation.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact Us</title>
-      <link>https://dnhddchessassociation.github.io/contactus/</link>
+      <link>http://localhost:1313/contactus/</link>
       <pubDate>Tue, 05 Nov 2024 19:29:15 +0530</pubDate>
-      <guid>https://dnhddchessassociation.github.io/contactus/</guid>
+      <guid>http://localhost:1313/contactus/</guid>
       <description>&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:info@dnhddchess.org&#34;&gt;info@dnhddchess.org&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Phone:&lt;/strong&gt; +123-456-7890&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Address:&lt;/strong&gt; 123 Chess Ave, Checkmate City&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Membership</title>
-      <link>https://dnhddchessassociation.github.io/membership/</link>
+      <link>http://localhost:1313/membership/</link>
       <pubDate>Tue, 05 Nov 2024 19:28:36 +0530</pubDate>
-      <guid>https://dnhddchessassociation.github.io/membership/</guid>
+      <guid>http://localhost:1313/membership/</guid>
       <description>&lt;h2 id=&#34;membership-benefits&#34;&gt;Membership Benefits&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Access to exclusive tournaments&lt;/li&gt;&#xA;&lt;li&gt;Discounts on workshops&lt;/li&gt;&#xA;&lt;li&gt;Monthly newsletter&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;how-to-join&#34;&gt;How to Join&lt;/h3&gt;&#xA;&lt;p&gt;Fill out our membership form and start your chess journey with us!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Events</title>
-      <link>https://dnhddchessassociation.github.io/events/</link>
+      <link>http://localhost:1313/events/</link>
       <pubDate>Tue, 05 Nov 2024 19:28:01 +0530</pubDate>
-      <guid>https://dnhddchessassociation.github.io/events/</guid>
+      <guid>http://localhost:1313/events/</guid>
       <description>&lt;h2 id=&#34;upcoming-events&#34;&gt;Upcoming Events&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Annual Chess Championship&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Date: December 10, 2024&lt;/li&gt;&#xA;&lt;li&gt;Venue: Community Hall&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Beginner&amp;rsquo;s Workshop&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Date: November 20, 2024&lt;/li&gt;&#xA;&lt;li&gt;Venue: Chess Club Room&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Join us for exciting events and hone your skills!&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Us</title>
-      <link>https://dnhddchessassociation.github.io/aboutus/</link>
+      <link>http://localhost:1313/aboutus/</link>
       <pubDate>Tue, 05 Nov 2024 19:25:26 +0530</pubDate>
-      <guid>https://dnhddchessassociation.github.io/aboutus/</guid>
+      <guid>http://localhost:1313/aboutus/</guid>
       <description>&lt;h2 id=&#34;about-dnh--dd-chess-association&#34;&gt;About DNH &amp;amp; DD Chess Association&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to the DNH &amp;amp; DD Chess Association! We are dedicated to promoting the game of chess across all age groups and skill levels.&lt;/p&gt;&#xA;&lt;h3 id=&#34;our-mission&#34;&gt;Our Mission&lt;/h3&gt;&#xA;&lt;p&gt;To foster a love for chess and develop strategic thinking and problem-solving skills.&lt;/p&gt;&#xA;&lt;h3 id=&#34;our-activities&#34;&gt;Our Activities&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Weekly Tournaments:&lt;/strong&gt; Join us every Saturday for exciting matches.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Chess Workshops:&lt;/strong&gt; Learn from experienced players and improve your game.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Community Outreach:&lt;/strong&gt; Bringing chess to schools and community centers.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;join-us&#34;&gt;Join Us&lt;/h3&gt;&#xA;&lt;p&gt;Whether you&amp;rsquo;re a beginner or a seasoned player, the DNH &amp;amp; DD Chess Association welcomes you. Become a member today and be part of our growing community!&lt;/p&gt;</description>
     </item>
   </channel>
