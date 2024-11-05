@@ -6,7 +6,7 @@ title = 'About Us'
 
 ## About DNH & DD Chess Association
 
-Welcome to the DNH & DD Chess Association! We are dedicated to promoting the game of chess across all age groups and skill levels.
+Welcome to the DNH & DD Chess Association! We are dedicated to promoting the game of chess across all age groups and skill levels in DNH & DD.
 
 ### Our Mission
 
