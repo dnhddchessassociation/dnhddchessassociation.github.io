@@ -10,8 +10,8 @@ menu: main
 ## Get in Touch
 
 -   **Email:** president.dnhddchess@gmail.com
--   **Phone:** +123-456-7890
--   **Address:** 123 Chess Ave, Checkmate City
+-   **Phone:** +91-7999836286
+-   **Address:** Flat No. 4, Vraj, Plot No. 350/2, Near Adivasi Bhavan, Vrindavan Society, Tokarkheda, Silvassa, Dadra & Nagar Haveli
 
 ## Send Us a Message
 
