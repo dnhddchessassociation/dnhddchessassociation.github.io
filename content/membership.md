@@ -1,9 +1,12 @@
-+++
-date = '2024-11-05T19:28:36+05:30'
-draft = true
-title = 'Membership'
-featured_image: "https://github.com/user-attachments/assets/bd41066b-853a-4f2b-aac8-ba92883957fa"
-+++
+---
+title: Membership
+featured_image: ""https://github.com/user-attachments/assets/bd41066b-853a-4f2b-aac8-ba92883957fa""
+omit_header_text: true
+description: Become a member for exclusive offers
+type: page
+menu: main
+---
+
 ## Membership Benefits
 
 -   Access to exclusive practice matches, local tournments
