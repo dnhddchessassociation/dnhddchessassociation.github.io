@@ -1,4 +1,4 @@
-![logo ss](https://github.com/user-attachments/assets/c6b80a1b-0c8b-4197-a040-10d0908f7ddd)
+
 ---
 
 ---
