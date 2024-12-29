@@ -4,7 +4,7 @@ description: "Empowering the chess community in Daman, Diu, and Dadra & Nagar Ha
 author: "DNH & DD Chess Association"
 theme_version: "2.8.2"
 cascade:
-featured_image: "https://github.com/user-attachments/assets/d418c56b-d235-4c32-a8dc-ccb152a325a0"
+featured_image: "https://github.com/user-attachments/assets/f85e2521-ccb2-4182-b71c-109d14c2d609"
 
 ---
 
