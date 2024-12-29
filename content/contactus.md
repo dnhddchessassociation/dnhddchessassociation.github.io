@@ -16,7 +16,6 @@ menu: main
 
 ## Send Us a Message
 
-{{< form-contact action="https://example.com"  >}}
 <div class="row">
     <div class="col-lg-8 mb-4">
       <h3>Send us a Message</h3>
@@ -40,16 +39,6 @@ menu: main
             <textarea rows="10" cols="100" class="form-control" id="message" required data-validation-required-message="Please enter your message" maxlength="999" style="resize:none"></textarea>
           </div>
         </div>
-        <div class="control-group form-group">
-          <div class="controls">
-            <label>Send Message To</label>
-            <select class="form-control" id="department">
-            <option value="sales@website.com">Sales</option>
-            <option value="support@website.com">Support</option>
-            </select>
-            <p class="help-block"></p>
-          </div>
-        </div>
         <div id="success"></div>
         <!-- For success/fail messages -->
         <button type="submit" class="btn btn-CMD" id="sendMessageButton">Send Message</button>
@@ -61,5 +50,5 @@ menu: main
 
 ## Follow Us
 
--   [Facebook](https://facebook.com)
--   [Twitter](https://twitter.com)
+-   [Facebook]([https://facebook.com](https://www.facebook.com/share/1B8Po8nreb/))
+-   [Instagram]([https://twitter.com](https://www.instagram.com/dnhdd_chess/))
