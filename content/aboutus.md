@@ -9,7 +9,7 @@ menu: main
 
 ## About DNH & DD Chess Association
 
-Welcome to the DNH & DD Chess Association! We are dedicated to promoting the game of chess across all age groups and skill levels in DNH & DD.
+Welcome to the DNH & DD Chess Association! We are dedicated to promoting the game of chess across all age groups and skill levels in DNH & DD and nearby regions. Our aim is promote Chess in India.
 
 ### Our Mission
 
@@ -17,8 +17,8 @@ To foster a love for chess and develop strategic thinking and problem-solving sk
 
 ### Our Activities
 
--   **Weekly Tournaments:** Join us every Saturday for exciting matches.
--   **Chess Workshops:** Learn from experienced players and improve your game.
+-   **Weekly Tournaments:** Join us for exciting matches in your nearby locality.
+-   **Chess Workshops:** Learn from our experienced rated players and improve your game.
 -   **Community Outreach:** Bringing chess to schools and community centers.
 
 ### Join Us
