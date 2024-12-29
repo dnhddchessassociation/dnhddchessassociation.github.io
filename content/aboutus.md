@@ -24,3 +24,7 @@ To foster a love for chess and develop strategic thinking and problem-solving sk
 ### Join Us
 
 Whether you're a beginner or a seasoned player, the DNH & DD Chess Association welcomes you. Become a member today and be part of our growing community!
+
+Fill the below form to join us.
+
+https://forms.gle/D4baBGkRJzRb3XmTA
