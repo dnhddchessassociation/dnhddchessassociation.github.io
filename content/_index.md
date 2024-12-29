@@ -4,12 +4,12 @@ description: "Empowering the chess community in Daman, Diu, and Dadra & Nagar Ha
 author: "DNH & DD Chess Association"
 theme_version: "2.8.2"
 cascade:
-    featured_image: "/images/banner.jpg"
+    featured_image: "(https://github.com/user-attachments/assets/cc3e6173-706d-4499-8fee-83ec0b34aa89).jpg"
 ---
 
 # DNH & DD Chess Association
 
-## Empowering the Chess Community in Daman, Diu, and Dadra & Nagar Haveli
+## Empowering the Chess Community in Dadra & Nagar Haveli, Daman, and Diu 
 
 Welcome to the official site of DNH & DD Chess Association. We bring together chess enthusiasts, professionals, and young talent from across the region. Stay updated with the latest tournaments, events, and membership opportunities.
 
@@ -17,11 +17,11 @@ Welcome to the official site of DNH & DD Chess Association. We bring together ch
 
 ## Upcoming Events
 
-### Annual Chess Championship
+### Chess Premier Championship
 
-**Date**: December 15, 2024
+**Date**: Febuary 09, 2025
 
-**Location**: Daman Sports Complex
+**Location**: Zanda Chowk Primary School, Silvassa, DNH
 
 Join the largest chess championship in the region. Whether you're a beginner or a seasoned player, this is an event you don't want to miss.
 
