@@ -1,4 +1,8 @@
-Membership 
+Become a Member
+---
+![member](https://github.com/user-attachments/assets/2a77ea38-d264-4e8f-9152-f2cac8e89177)
+---
+
 ## Membership Benefits
 
 -   Access to exclusive practice matches, local tournments
