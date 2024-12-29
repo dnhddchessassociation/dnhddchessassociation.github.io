@@ -2,7 +2,10 @@
 date = '2024-11-05T19:28:36+05:30'
 draft = false
 title = 'Membership'
+
+featured image: "https://github.com/user-attachments/assets/bd41066b-853a-4f2b-aac8-ba92883957fa"
 +++
+
 
 ## Membership Benefits
 
