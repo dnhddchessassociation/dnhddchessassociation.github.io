@@ -44,11 +44,10 @@ menu: main
         <button type="submit" class="btn btn-CMD" id="sendMessageButton">Send Message</button>
       </form>
     </div>
-
   </div>
 
 
 ## Follow Us
 
--   [Facebook]([https://facebook.com](https://www.facebook.com/share/1B8Po8nreb/))
--   [Instagram]([https://twitter.com](https://www.instagram.com/dnhdd_chess/))
+-   [Facebook]((https://www.facebook.com/share/1B8Po8nreb/))
+-   [Instagram]((https://www.instagram.com/dnhdd_chess/))
